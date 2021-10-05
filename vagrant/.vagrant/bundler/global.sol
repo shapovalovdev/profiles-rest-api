@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-disksize",["= 0.1.3"]],["wmi-lite",["~> 1.0"]],["ffi",[">= 1.0.0"]],["win32-process",["~> 0.8.2"]],["mixlib-shellout",["~> 2.1"]],["vbinfo",["= 0.0.2"]]],"checksum":"e6af0c08000d4513a9d2e81b18e1d1db568b6143a8536838f650b712a6237ff0","vagrant_version":"2.2.14"}

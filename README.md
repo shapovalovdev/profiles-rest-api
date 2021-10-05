@@ -1,2 +1,3 @@
-# profiles-rest-api
-Django rest framework
+# Profiles REST API
+
+Examples with Django rest framework
